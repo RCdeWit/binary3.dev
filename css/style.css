@@ -27,6 +27,10 @@ img.logo {
 	margin-bottom: 1rem;
 }
 
+div.about {
+	margin-bottom: 1.2rem;
+}
+
 div.contact-details span{
 	display: block;
 }
